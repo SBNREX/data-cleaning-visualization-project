@@ -1,0 +1,68 @@
+Customer_ID,Age,Gender,City,Product_Category,Quantity,Unit_Price,Payment_Method,Rating,Purchase_Date
+1001,22.0,Female,Chennai,Electronics,1,12999.0,Credit Card,4.5,2025-01-05
+1002,35.0,Male,Madurai,Clothing,2,799.0,UPI,4.0,2025-01-08
+1003,28.0,Female,Coimbatore,Home,1,2499.0,Cash,4.2,2025-01-12
+1004,41.0,Male,Chennai,Electronics,1,18999.0,Credit Card,4.8,2025-01-15
+1005,19.0,Female,Trichy,Clothing,3,499.0,UPI,3.8,2025-01-20
+1006,31.0,Male,Madurai,Beauty,2,699.0,Debit Card,4.1,2025-02-02
+1007,27.0,Female,Chennai,Home,1,1599.0,UPI,4.3,2025-02-06
+1008,45.0,Male,Coimbatore,Electronics,1,15999.0,Credit Card,4.7,2025-02-11
+1009,24.0,Female,Trichy,Clothing,2,899.0,Cash,3.9,2025-02-18
+1010,38.0,Male,Chennai,Beauty,1,1299.0,Debit Card,4.4,2025-02-22
+1011,29.0,Female,Madurai,Electronics,1,9999.0,UPI,4.6,2025-03-03
+1012,33.0,Male,Coimbatore,Home,2,1999.0,Credit Card,4.0,2025-03-07
+1013,26.0,Female,Chennai,Clothing,2,599.0,UPI,4.2,2025-03-10
+1014,52.0,Male,Trichy,Electronics,1,14999.0,Credit Card,4.9,2025-03-14
+1015,21.0,Female,Madurai,Beauty,3,499.0,Cash,3.7,2025-03-19
+1016,34.0,Male,Chennai,Home,1,2799.0,UPI,4.1,2025-03-25
+1017,30.0,Female,Coimbatore,Electronics,1,11999.0,Credit Card,4.6,2025-04-02
+1018,24.0,Male,Trichy,Clothing,4,699.0,UPI,3.9,2025-04-06
+1019,39.0,Female,Madurai,Home,1,2199.0,Debit Card,4.3,2025-04-10
+1020,27.0,Male,Chennai,Beauty,2,899.0,Cash,4.0,2025-04-15
+1021,32.0,Female,Coimbatore,Electronics,1,13999.0,Credit Card,4.8,2025-04-19
+1022,23.0,Male,Madurai,Clothing,2,799.0,UPI,4.1,2025-04-23
+1023,36.0,Female,Trichy,Home,1,1899.0,Debit Card,4.4,2025-05-01
+1024,28.0,Male,Chennai,Electronics,1,17999.0,Credit Card,4.7,2025-05-05
+1025,25.0,Female,Coimbatore,Beauty,2,599.0,UPI,3.8,2025-05-09
+1026,42.0,Male,Madurai,Clothing,3,999.0,Cash,4.2,2025-05-14
+1027,29.0,Female,Chennai,Home,1,2299.0,Debit Card,4.5,2025-05-20
+1028,34.0,Male,Trichy,Electronics,1,10999.0,Credit Card,4.6,2025-05-25
+1029,31.0,Female,Madurai,Clothing,2,699.0,UPI,4.0,2025-06-02
+1030,26.0,Male,Coimbatore,Beauty,1,799.0,Cash,4.1,2025-06-08
+1031,37.0,Female,Chennai,Electronics,1,15999.0,Credit Card,4.9,2025-06-12
+1032,22.0,Male,Trichy,Home,2,1699.0,UPI,3.9,2025-06-17
+1033,30.0,Female,Madurai,Clothing,3,899.0,Debit Card,4.3,2025-06-22
+1034,44.0,Male,Coimbatore,Electronics,1,14999.0,Credit Card,4.7,2025-06-28
+1035,27.0,Female,Chennai,Beauty,2,699.0,UPI,4.2,2025-07-03
+1036,33.0,Male,Madurai,Home,1,2599.0,Cash,4.0,2025-07-09
+1037,24.0,Female,Trichy,Clothing,2,799.0,UPI,4.1,2025-07-13
+1038,40.0,Male,Chennai,Electronics,1,19999.0,Credit Card,4.8,2025-07-18
+1039,29.0,Female,Coimbatore,Home,1,1999.0,Debit Card,4.4,2025-07-24
+1040,35.0,Male,Madurai,Beauty,2,999.0,Cash,4.2,2025-07-30
+1041,26.0,Female,Chennai,Electronics,1,12999.0,Credit Card,4.7,2025-08-04
+1042,48.0,Male,Trichy,Clothing,2,899.0,UPI,4.0,2025-08-10
+1043,23.0,Female,Madurai,Home,1,1799.0,Debit Card,4.3,2025-08-15
+1044,32.0,Male,Coimbatore,Electronics,1,16999.0,Credit Card,4.8,2025-08-21
+1045,28.0,Female,Chennai,Beauty,3,599.0,UPI,4.1,2025-08-27
+1046,36.0,Male,Madurai,Clothing,2,799.0,Cash,4.2,2025-09-02
+1047,25.0,Female,Coimbatore,Electronics,1,11999.0,Credit Card,4.6,2025-09-08
+1048,39.0,Male,Chennai,Home,1,2399.0,Debit Card,4.4,2025-09-14
+1049,31.0,Female,Trichy,Clothing,2,699.0,UPI,4.0,2025-09-20
+1050,27.0,Male,Madurai,Electronics,1,14999.0,Credit Card,4.7,2025-09-26
+1051,,Female,Chennai,Beauty,2,799.0,UPI,4.1,2025-10-02
+1052,34.0,,Coimbatore,Home,1,1999.0,Cash,4.3,2025-10-07
+1053,29.0,Male,Madurai,Electronics,1,,Credit Card,4.8,2025-10-12
+1054,42.0,Female,Trichy,Clothing,2,899.0,UPI,,2025-10-18
+1055,25.0,Male,Chennai,Home,1,2199.0,Debit Card,4.2,
+1056,31.0,Female,Madurai,Beauty,2,699.0,UPI,4.0,2025-10-25
+1057,28.0,Male,Coimbatore,Electronics,1,9999.0,Credit Card,4.6,2025-11-01
+1058,36.0,Female,Chennai,Clothing,2,799.0,UPI,4.3,2025-11-07
+1059,150.0,Male,Madurai,Electronics,1,999999.0,Credit Card,8.0,2025-11-12
+1060,27.0,Female,Trichy,Home,2,1799.0,Cash,4.1,2025-11-18
+1061,33.0,Male,Chennai,Beauty,1,899.0,Debit Card,4.4,2025-11-24
+1062,24.0,Female,Coimbatore,Clothing,2,699.0,UPI,3.9,2025-12-02
+1063,38.0,Male,Madurai,Electronics,1,15999.0,Credit Card,4.8,2025-12-08
+1064,29.0,Female,Chennai,Home,1,2499.0,Debit Card,4.5,2025-12-14
+1065,35.0,Male,Trichy,Clothing,3,899.0,UPI,4.2,2025-12-20
+1066,26.0,Female,Coimbatore,Beauty,2,599.0,Cash,4.0,2025-12-26
+1001,22.0,Female,Chennai,Electronics,1,12999.0,Credit Card,4.5,2025-01-05

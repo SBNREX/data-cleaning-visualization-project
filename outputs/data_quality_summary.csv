@@ -1,0 +1,7 @@
+Metric,Value
+Rows before cleaning,67
+Rows after cleaning,66
+Missing cells before cleaning,5
+Exact duplicate rows found,1
+Unit-price values beyond IQR fences capped,1
+Missing cells after cleaning,0
